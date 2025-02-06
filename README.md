@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Group 4 DSCI 100 project
+Members: Lily Liu, Wynton Brick, Elden Wu, James Ng
